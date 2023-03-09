@@ -11,7 +11,6 @@
 One of my main values is freedom and
 growth. Therefore, I decided to develop in the IT field,  
 which makes it possible to work from anywhere in the world and constantly learn something new.
-
 My choice was the profession of a frontend developer,as I like to interact with the client side of a web application
 and see the result of my work.  
 My goal is to find a dream job and become a specialist in this field.
